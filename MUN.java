@@ -10,3 +10,4 @@ Dalot
 Malacia
 PlAyah
 So far So Good
+User beware of application modification(s)
